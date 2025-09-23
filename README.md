@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/header.svg" alt="Zahra Qaisar — Coding Banner" />
-</p>
-
 <h1 align="center">Hey, I'm Zahra Qaisar! 💻</h1>  
 
 <p align="center">
