@@ -1,10 +1,14 @@
 <!-- Header -->
-<h1 align="center">💻 Hey, I'm Zahra Qaisar 👨‍💻</h1>
+<h1 align="center">
+  👩‍💻 Hey, I'm <span style="color:#4CAF50">Zahra Qaisar</span> 💻  
+</h1>
 
 <p align="center">
-  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/icons/code.gif" width="40px" />  
-  <em>"Code is where creativity meets logic."</em>  
-  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/icons/code.gif" width="40px" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Full+Stack+Web+Developer;MERN+%2B+Django+Explorer;NLP+and+Creative+Coding+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>"Code is where creativity meets logic."</em>
 </p>
 
 ---
@@ -34,6 +38,6 @@
 ---
 
 <p align="center">
-  🌐 Always curious, always exploring <br>
-  ⚡ Every bug is just an opportunity in disguise  
+  🔭 Always curious, always exploring <br>
+  🛠️ Every bug is just an opportunity in disguise
 </p>
