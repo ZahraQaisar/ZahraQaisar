@@ -18,7 +18,6 @@
 - 📚 Exploring **NLP** and modern **CS concepts**  
 - 🎯 Goal: Become strong in **AI-powered applications** + **full-stack development**  
 - 💬 Ask me about **Web Development, Git/GitHub, Databases, and Creative Coding**  
-- ☕ Fun Fact: *I debug faster with coffee and chill playlists* 🎶  
 
 ---
 
