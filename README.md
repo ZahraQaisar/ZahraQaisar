@@ -1,20 +1,15 @@
-<!-- Header with background -->
-<p align="center">
-  <img src="image.jpg" alt="Background" width="20%" />
-</p>
-
+<!-- Header -->
 <h1 align="center">
   Hey, I'm <span style="color:#4CAF50">Zahra Qaisar</span> 💻  
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+%2B+Django+Explorer;ML+and+Creative+Coding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=;Full+Stack+Web+Developer;MERN+%2B+Django+Explorer;ML+and+Creative+Coding+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <em>"Code is where creativity meets logic."</em>
 </p>
-
 
 ---
 
