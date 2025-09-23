@@ -31,13 +31,7 @@ I love experimenting with **Web Development, Machine Learning, and Creative Codi
 ---
 
 ### 🌱 Current Mission  
-Learning **NLP, Machine Learning, and Advanced CS concepts**, while building projects that combine **creativity + code**.  
-
----
-
-### 📊 GitHub Vibes  
-![Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
+Learning **Machine Learning, and Advanced CS concepts**, while building projects that combine **creativity + code**.  
 
 ---
 
