@@ -1,27 +1,24 @@
-# 👋 Hey, I’m Z. Qaisar  
+# 👋 Hey, I’m Zahra Qaisar  
 
 > *“Code never lies, comments sometimes do.”*  
 
 I’m a **Computer Science student** passionate about turning complex problems into clean, working solutions.  
-I love experimenting with **Web Development, Machine Learning, and Creative Coding Projects**.  
+I specialize in **Web Development** (MERN & Django) and love exploring **NLP and Creative Coding Projects**.  
 
 ---
 
-### ⚡ Tech Stack  
 ### ⚡ Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,postgres,mongodb,express,react,nodejs,django,git,github,tailwind" />
 </p>
 
-
-
 ---
 
 ### 🚀 Featured Projects  
+- 🛒 **E-Commerce Platform (MERN)** – Fully functional app with **Admin Dashboard, Backend API, and Responsive Frontend**  
 - 🎶 **Spotify Clone** – React + Tailwind for a sleek UI  
 - ✅ **Trello Clone** – Task management with drag & drop  
-- 🤖 **NLP Chatbot** – Conversational support system  
-- 📊 **ML Models** – *(Work in Progress)* Sentiment analysis & predictions  
+- 🤖 **NLP Chatbot** – Conversational bot for internship support (FAQs + ticket handling)  
 
 ---
 
