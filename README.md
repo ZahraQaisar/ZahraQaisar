@@ -1,6 +1,6 @@
 <!-- Header with background -->
 <p align="center">
-  <img src="assets/bg.jpg" alt="Background" width="100%" />
+  <img src="image.jpg" alt="Background" width="20%" />
 </p>
 
 <h1 align="center">
@@ -14,6 +14,7 @@
 <p align="center">
   <em>"Code is where creativity meets logic."</em>
 </p>
+
 
 ---
 
