@@ -1,31 +1,36 @@
-# 🌐 Hey, I’m Zahra Qaisar  
+<h1 align="center">Hey, I'm Zahra Qaisar! 💻</h1>  
 
-> *“Code never lies, comments sometimes do.”*  
-
-I’m a **Computer Science student** passionate about turning complex problems into clean, working solutions.  
-I specialize in **Web Development** (MERN & Django) and love exploring **NLP and Creative Coding Projects**.  
+<p align="center">
+  <em>"Code is where creativity meets logic."</em>
+</p>  
 
 ---
 
-### 🧩 Tech Stack  
-<p align="left">
+## 👩‍💻 About Me  
+- 🛠️ Building projects in **MERN** and **Django** with clean, scalable solutions  
+- 📚 Exploring **NLP** and modern **CS concepts**  
+- 🎯 Goal: Become strong in **AI-powered applications** + **full-stack development**  
+- 💬 Ask me about **Web Development, Git/GitHub, Databases, and Creative Coding**  
+- ☕ Fun Fact: *I debug faster with coffee and chill playlists* 🎶  
+
+---
+
+## 🧩 Tech Stack  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,postgres,mongodb,express,react,nodejs,django,git,github,tailwind" />
-</p>
+</p>  
 
 ---
 
-### 🏗️ Featured Projects  
-- 🛒 **E-Commerce Platform (MERN)** – Fully functional app with **Admin Dashboard, Backend API, and Responsive Frontend**  
+## 🚀 Featured Projects  
+- 🛒 **E-Commerce Platform (MERN)** – Fully functional with Admin Dashboard, API & Responsive Frontend  
 - 🎼 **Spotify Clone** – React + Tailwind for a sleek UI  
 - 📌 **Trello Clone** – Task management with drag & drop  
 - 🗨️ **NLP Chatbot** – Conversational bot for internship support (FAQs + ticket handling)  
 
 ---
 
-### 📚 Current Mission  
-Learning **Machine Learning, and Advanced CS concepts**, while building projects that combine **creativity + code**.  
-
----
-
-🔭 *Always curious, always exploring.*  
-🛠️ *Every bug is just an opportunity in disguise.*  
+<p align="center">
+  🔭 Always curious, always exploring <br>
+  🛠️ Every bug is just an opportunity in disguise
+</p>
