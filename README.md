@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center" style="font-family:'JetBrains Mono', monospace;">
-  Hey, I'm <span style="color:#4CAF50">Zahra Qaisar.</span> 💻  
+  Hey, I'm <span style="color:#4CAF50">Zahra Qaisar!</span> 💻  
 </h1>
 
 <p align="center">
